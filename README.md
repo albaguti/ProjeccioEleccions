@@ -22,7 +22,7 @@ Aquí uns quants exemples de tuits que utilitzen la por a la dreta per a animar 
 
 Utilitzo com a base els resultats de les recents eleccions municipals de Maig de 2023. Amb aquests resultats puc fer una predicció de resultats a les generals de Juliol.
 
-<img src="" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals"/>
+<img src="results/projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals"/>
 
 __
 # ProjeccioEleccions
