@@ -1,6 +1,6 @@
 # Projecció Eleccions
 
-## Index de continguts
+## Índex de continguts
 1. [Antecedents](#Antecedents)
 2. [Metodologia](#Metodologia)
 3. [DISCLAIMER](#Disclaimer)
