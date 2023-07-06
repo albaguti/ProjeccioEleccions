@@ -27,11 +27,13 @@ Utilitzo com a base els resultats de les recents eleccions municipals de Maig de
 Amb aquesta base, puc calcular quins resultats hi hauria si hi hagués diferents graus d'abstenció indepentista. 
 <ul>
     <li> Amb un 30% d'abstenció independentista respecte dels resultats de les municipals, els escons estarien repartits de la següent manera:
-        <img src="results/abs30projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 30% d'abstenció independentista"/></li>
+        <img src="results/abs30projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 30% d'abstenció independentista"/>
+    La CUP ja no entraria perquè no passaria el tall del 3%.
+    </li>
         <li> Amb un 50% d'abstenció independentista:
         <img src="results/abs50projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 50% d'abstenció independentista"/></li>
         <li> Finalment, amb un 1000% d'abstenció independentista:
-        <img src="results/abs100projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 1000% d'abstenció independentista"/></li>
+        <img src="results/abs100projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 100% d'abstenció independentista"/></li>
 </ul>
 
 
