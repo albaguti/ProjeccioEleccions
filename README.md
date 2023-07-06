@@ -6,6 +6,9 @@ Aquest projecte sorgeix amb la idea d'analitzar possibles resultats electorals a
 La inoperància dels partits independentistes ha decebut les bases del moviment independentista i per aquest motiu, han sorgit molts moviments cridant a l'abstenció, el vot nul o el vot en blanc indefinit fins que els partits independentistes rectifiquin.
 
 Com a contrapartida, els partits independentistes han fet campanya dient que si no els votes, dones pas a que la dreta governi. 
+
+Aquí uns quants exemples de tuits que utilitzen la por a la dreta per a animar la gent a anar a votar:
+
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">I ara que surtin suposats independentistes amb abstencions, vots nuls, blancs i demés formes de regalar escons als ultres i als del règim del 78. <a href="https://t.co/XXulzYf1Hc">https://t.co/XXulzYf1Hc</a></p>&mdash; Marc Colomer (@MarcColomer) <a href="https://twitter.com/MarcColomer/status/1675866645753896961?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> 
 
 
@@ -13,10 +16,13 @@ Com a contrapartida, els partits independentistes han fet campanya dient que si 
 <blockquote class="twitter-tweet"><p lang="ca" dir="ltr">El <a href="https://twitter.com/hashtag/23J?src=hash&amp;ref_src=twsrc%5Etfw">#23J</a> no et quedis a casa. Protegim Catalunya de l’extrema dreta <a href="https://twitter.com/hashtag/ProtegimGirona?src=hash&amp;ref_src=twsrc%5Etfw">#ProtegimGirona</a> <a href="https://twitter.com/hashtag/ProtegimCatalunya?src=hash&amp;ref_src=twsrc%5Etfw">#ProtegimCatalunya</a> <a href="https://t.co/hgHKEdQ7KN">https://t.co/hgHKEdQ7KN</a></p>&mdash; Joan Margall Sastre (@joanmargall) <a href="https://twitter.com/joanmargall/status/1674680693572481026?ref_src=twsrc%5Etfw">June 30, 2023</a></blockquote> 
 
 
-
-Intentarem respondre a la pregunta de: si els votants independentistes s'abstenen quins partits surten beneficiats a Catalunya?
+És cert que si els votants independentistes s'abstenen vindrà la dreta? Quins son els partits que surten beneficiats si els votants independentistes s'abstenen?
 
 ## Metodologia
+
+Utilitzo com a base els resultats de les recents eleccions municipals de Maig de 2023. Amb aquests resultats puc fer una predicció de resultats a les generals de Juliol.
+
+<img src="" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals"/>
 
 __
 # ProjeccioEleccions
