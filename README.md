@@ -1,4 +1,26 @@
-# ProjeccioEleccions
+# Projecció Eleccions
+
+Aquest projecte sorgeix amb la idea d'analitzar possibles resultats electorals a Catalanunya de les eleccions generals de Juliol de 2023.
+
+## Antecedents
+La inoperància dels partits independentistes ha decebut les bases del moviment independentista i per aquest motiu, han sorgit molts moviments cridant a l'abstenció, el vot nul o el vot en blanc indefinit fins que els partits independentistes rectifiquin.
+
+Com a contrapartida, els partits independentistes han fet campanya dient que si no els votes, dones pas a que la dreta governi. 
+
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">I ara que surtin suposats independentistes amb abstencions, vots nuls, blancs i demés formes de regalar escons als ultres i als del règim del 78. <a href="https://t.co/XXulzYf1Hc">https://t.co/XXulzYf1Hc</a></p>&mdash; Marc Colomer (@MarcColomer) <a href="https://twitter.com/MarcColomer/status/1675866645753896961?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> 
+
+
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">El <a href="https://twitter.com/hashtag/23J?src=hash&amp;ref_src=twsrc%5Etfw">#23J</a> no et quedis a casa. Protegim Catalunya de l’extrema dreta <a href="https://twitter.com/hashtag/ProtegimGirona?src=hash&amp;ref_src=twsrc%5Etfw">#ProtegimGirona</a> <a href="https://twitter.com/hashtag/ProtegimCatalunya?src=hash&amp;ref_src=twsrc%5Etfw">#ProtegimCatalunya</a> <a href="https://t.co/hgHKEdQ7KN">https://t.co/hgHKEdQ7KN</a></p>&mdash; Joan Margall Sastre (@joanmargall) <a href="https://twitter.com/joanmargall/status/1674680693572481026?ref_src=twsrc%5Etfw">June 30, 2023</a></blockquote> 
+
+
+Intentarem respondre a la pregunta de: si els votants independentistes s'abstenen quins partits surten beneficiats a Catalunya?
+
+##Metodologia
+
+--
+#ProjeccioEleccions
+
+## Background
 
 Project to analyse possible electoral outcomes of the Spanish General Elections from July 2023 in Catalonia.
 
@@ -13,5 +35,4 @@ I have projected the results obtained by the catalan parties on the recent munic
 On both cases, I compare the projected results with the results obtained in Catalonia on the last General Elections from Nov 2019. 
 
 
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">I ara que surtin suposats independentistes amb abstencions, vots nuls, blancs i demés formes de regalar escons als ultres i als del règim del 78. <a href="https://t.co/XXulzYf1Hc">https://t.co/XXulzYf1Hc</a></p>&mdash; Marc Colomer (@MarcColomer) <a href="https://twitter.com/MarcColomer/status/1675866645753896961?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> 
 
