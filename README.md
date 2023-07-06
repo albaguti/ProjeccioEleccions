@@ -24,6 +24,14 @@ Utilitzo com a base els resultats de les recents eleccions municipals de Maig de
 
 <img src="results/projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals"/>
 
+Amb aquesta base, puc calcular quins resultats hi hauria si hi hagués diferents graus d'abstenció indepentista. 
+
+Amb un 30% d'abstenció independentista respecte dels resultats de les municipals, els escons estarien repartits de la següent manera:
+<img src="results/abs30projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 30% d'abstenció independentista"/>
+
+
+
+
 __
 # ProjeccioEleccions
 
