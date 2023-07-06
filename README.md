@@ -3,7 +3,7 @@
 Aquest projecte sorgeix amb la idea d'analitzar possibles resultats electorals a Catalanunya de les eleccions generals de Juliol de 2023.
 
 ## Antecedents
-La inoperància dels partits independentistes ha decebut les bases del moviment independentista i per aquest motiu, han sorgit molts moviments cridant a l'abstenció, el vot nul o el vot en blanc indefinit fins que els partits independentistes rectifiquin.
+La inoperància dels partits independentistes ha decebut les bases del moviment independentista. Per aquest motiu han sorgit molts moviments cridant a l'abstenció, el vot nul o el vot en blanc indefinit fins que els partits independentistes rectifiquin.
 
 Com a contrapartida, els partits independentistes han fet campanya dient que si no els votes, dones pas a que la dreta governi. 
 
@@ -24,7 +24,7 @@ Utilitzo com a base els resultats de les recents eleccions municipals de Maig de
 
 <img src="results/projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals"/>
 
-Amb aquesta base, puc calcular quins resultats hi hauria si hi hagués diferents graus d'abstenció indepentista. 
+Amb aquesta base és possible calcular quins resultats serien d'esperar si hi hagués diferents graus d'abstenció indepentista. 
 <ul>
     <li> Amb un 30% d'abstenció independentista respecte dels resultats de les municipals, els escons estarien repartits de la següent manera:
         <img src="results/abs30projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 30% d'abstenció independentista"/>
