@@ -15,10 +15,10 @@ Com a contrapartida, els partits independentistes han fet campanya dient que si 
 
 Intentarem respondre a la pregunta de: si els votants independentistes s'abstenen quins partits surten beneficiats a Catalunya?
 
-##Metodologia
+## Metodologia
 
---
-#ProjeccioEleccions
+__
+# ProjeccioEleccions
 
 ## Background
 
