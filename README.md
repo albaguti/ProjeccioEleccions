@@ -1,5 +1,14 @@
 # Projecció Eleccions
 
+## Index de continguts
+1. [Antecedents](#Antecedents)
+2. [Metodologia](#Metodologia)
+3. [DISCLAIMER](#Disclaimer)
+4. [TO-DO](#TO-DO)
+5. [English](#English)
+
+
+
 Aquest projecte sorgeix amb la idea d'analitzar possibles resultats electorals a Catalanunya de les eleccions generals de Juliol de 2023.
 
 ## Antecedents
@@ -54,7 +63,7 @@ Aquests càlculs pretenen ser un exercici de quin podia ser un possible efecte d
 
 
 __
-# ProjeccioEleccions
+## English
 
 ## Background
 
