@@ -32,10 +32,25 @@ Amb aquesta base, puc calcular quins resultats hi hauria si hi hagués diferents
     </li>
         <li> Amb un 50% d'abstenció independentista:
         <img src="results/abs50projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 50% d'abstenció independentista"/></li>
-        <li> Finalment, amb un 1000% d'abstenció independentista:
+        <li> Finalment, amb un 100% d'abstenció independentista:
         <img src="results/abs100projection.png" alt="Predicció resultats electorals projectant els resultats de les recents eleccions municipals amb un 100% d'abstenció independentista"/></li>
 </ul>
+Es pot veure clarament que el clar beneficiat de l'abstenció independentista és el PSOE.
 
+
+## DISCLAIMER
+
+Aquests càlculs pretenen ser un exercici de quin podia ser un possible efecte d'abstenció del sector independentista, no és una predicció de resultats electorals. Dóna una idea a l'engròs.
+
+## TO-DO:
+
+<ul>
+<li> Treure l'efecte Trias que beneficia Junts en la projecció a les generals</li>
+<li> Afegir abstenció diferencial, és a dir, preveure diferents graus d'abstenció a cada un dels diferents partits independentistes</li>
+<li> Automatitzar les gràfiques per a seleccionar mitjançant botó, quina abstenció es vol seleccionar.</li>
+
+    
+</ul>
 
 
 __
